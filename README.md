@@ -1,2 +1,1 @@
-**This file is mandatory in all School projects**
-Updated!
+**This file is mandatory in all School projects** ---> Updated!
